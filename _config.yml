@@ -14,7 +14,7 @@ keep_files:
 
 
 # Site settings
-title: "Chap's demo"
+title: "Chap's Landing demo"
 subtitle: "A free HTML5 agency template"
 url: "http://veuda31.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
